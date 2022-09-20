@@ -1,0 +1,5 @@
+- Hi, I’m @Tezzax64
+- I’m interested in C#.
+- I’m currently learning HTML, CSS, Java.
+- I’m looking to collaborate on labs.
+- How to reach me: ciaranswhyte@gmail.com
